@@ -10,25 +10,20 @@ To create orthographic view of given 3D model
 
 ## PROCEDURE:
 
-### STEP-1:
-Open Fusion 360 and select file and click new file
-
-### STEP-2:
-Select sketch option and choose create sketch
-
-### STEP-3: 
-1. Create the sketch using circle, line, trim operations as shown in figure
-2. Apply finish sketch 
-
-### STEP-4:
- Use the extrude option to convert the 2D to 3D.
-
-### STEP-5:
-Switch to drawing mode from design mode 
-          
-### STEP-6:
-1. Select the base view and position the model to project from base view 
-2. Select the projected view to generate orthographic projections
+- STEP-1:  
+  - Open Fusion 360 and select file and click new file
+- STEP-2:  
+  - Select sketch option and choose create sketch
+- STEP-3: 
+  - Create the sketch using circle, line, trim operations as shown in figure
+  - Apply finish sketch 
+- STEP-4:
+  - Use the extrude option to convert the 2D to 3D.
+- STEP-5:
+  - Switch to drawing mode from design mode 
+- STEP-6:
+  - Select the base view and position the model to project from base view 
+  -Select the projected view to generate orthographic projections
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
